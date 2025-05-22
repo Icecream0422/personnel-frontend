@@ -6,7 +6,7 @@
 
       <div class="title">
        <img src="../../assets/logo2.jpg" style="width: 40px;position: relative; top: 13px;right: 6px">
-        <span style="color: #ee6e08;">企业人事职工管理系统</span>
+        <span style="color: #ee6e08;">人力资源管理系统</span>
       </div>
 
       <el-form

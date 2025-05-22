@@ -65,7 +65,6 @@
 
 <script>
 import CountTo from "vue-count-to";
-import ann from "@/api/announcement"
 export default {
   data() {
     return {

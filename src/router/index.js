@@ -350,6 +350,8 @@ export const asyncRoutes = [
     }
     ]
   },
+
+  /*
   // 公告管理
   {
     path: '/announcement',
@@ -395,6 +397,8 @@ export const asyncRoutes = [
 
     ]
   },
+  */
+
   // 合同管理
   {
     path: '/contract',
